@@ -1,7 +1,7 @@
-// Name :- Shaikh Zaid 
+// Name :- Badarpura Zaid 
 // Class : Computer Enginnering
 // Division :- D
-// UIN :- 251P108 
+// UIN :- 251P127 
 #include <stdio.h>
 
 int main() {
@@ -52,5 +52,6 @@ start:
     }
 
     goto start;
+
 
 }
