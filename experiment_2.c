@@ -1,6 +1,6 @@
 /*
-Name:Shaikh Zaid
-UIN:251P108       COMPUTER ENGINEERING - D2
+Name:badarpura Zaid
+UIN:251P127       COMPUTER ENGINEERING - D2
 */
 #include<stdio.h>
 int main(){
@@ -15,4 +15,5 @@ int main(){
      }
      printf("sum of odd is %d",sum);
      return 0;
+
 }
