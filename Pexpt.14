@@ -1,0 +1,13 @@
+'''Zaid Badarpura'''
+'''UIN:- 251P127'''
+print("ahmed farooqui")
+print("UIN:-251P090")
+try:
+    a = int(input('Enter a number: '))
+    b = 10 / a
+    print(b)
+
+except ZeroDivisionError:
+    print('Division by zero error')
+except ValueError:
+    print('Invalid input')
