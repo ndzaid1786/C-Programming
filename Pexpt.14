@@ -1,7 +1,7 @@
 '''Zaid Badarpura'''
 '''UIN:- 251P127'''
-print("ahmed farooqui")
-print("UIN:-251P090")
+print("Zaid Badarpura")
+print("UIN:-251P127")
 try:
     a = int(input('Enter a number: '))
     b = 10 / a
