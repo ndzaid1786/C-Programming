@@ -1,0 +1,13 @@
+'''UIN: 251P127 NAME : ZAID BADARPURA'''
+print ("UIN:251P127 NAME:ZAID BADARPURA")
+def calculate_average (numbers) :
+    print(numbers [0])
+    total =0
+    for i in range (len (numbers) ) :
+        total = total + numbers [i]
+    avg = total/len (numbers)
+    return avg
+
+marks = [10,20,30,40,50]
+result = calculate_average (marks)
+print ("Average =", result)
